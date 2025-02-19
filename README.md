@@ -20,7 +20,7 @@
 
 10. finalized_model.pkl - A PKL file that stores a trained model that can be loaded later for predictions.
 
-11. pipeline_env.yaml - A YAML file that defines environment vaariables used in a pipeline setup.
+11. pipeline_env.yaml - A YAML file that defines environment variables used in a pipeline setup.
 
 12. model_performance_test.jpg - A JPG file that contains an image of the model performance metrics.
 
