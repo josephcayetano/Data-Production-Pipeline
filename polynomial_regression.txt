@@ -1,0 +1,37 @@
+16:03:46 INFO Flight Departure Delays Polynomial Regression Model Log
+16:03:46 INFO Month and year of data: 1 2024
+16:03:48 INFO Airport one-hot encoding successful
+16:03:48 DEBUG Popen(['git', 'version'], cwd=C:\Users\jcaye\D602Task2, stdin=None, shell=False, universal_newlines=False)
+16:03:48 DEBUG Popen(['git', 'version'], cwd=C:\Users\jcaye\D602Task2, stdin=None, shell=False, universal_newlines=False)
+16:03:48 DEBUG Popen(['git', 'check-ignore', 'C:\\Users\\jcaye\\D602Task2'], cwd=C:\Users\jcaye\D602Task2, stdin=None, shell=False, universal_newlines=False)
+16:03:49 DEBUG Popen(['git', 'cat-file', '--batch-check'], cwd=C:\Users\jcaye\D602Task2, stdin=<valid stream>, shell=False, universal_newlines=False)
+16:03:49 INFO n=1 alpha=0.0 , MSE = 1.092e+25
+16:03:49 INFO n=1 alpha=0.2 , MSE = 98.445
+16:03:49 INFO n=1 alpha=0.4 , MSE = 97.925
+16:03:49 INFO n=1 alpha=0.6 , MSE = 97.511
+16:03:49 INFO n=1 alpha=0.8 , MSE = 97.174
+16:03:49 INFO n=1 alpha=1.0 , MSE = 96.892
+16:03:49 INFO n=1 alpha=1.2 , MSE = 96.654
+16:03:49 INFO n=1 alpha=1.4 , MSE = 96.449
+16:03:49 INFO n=1 alpha=1.6 , MSE = 96.271
+16:03:50 INFO n=1 alpha=1.8 , MSE = 96.116
+16:03:50 INFO n=1 alpha=2.0 , MSE = 95.978
+16:03:50 INFO n=1 alpha=2.2 , MSE = 95.855
+16:03:50 INFO n=1 alpha=2.4 , MSE = 95.746
+16:03:50 INFO n=1 alpha=2.6 , MSE = 95.647
+16:03:50 INFO n=1 alpha=2.8 , MSE = 95.558
+16:03:50 INFO n=1 alpha=3.0 , MSE = 95.476
+16:03:50 INFO n=1 alpha=3.2 , MSE = 95.402
+16:03:51 INFO n=1 alpha=3.4 , MSE = 95.334
+16:03:51 INFO n=1 alpha=3.6 , MSE = 95.272
+16:03:51 INFO n=1 alpha=3.8 , MSE = 95.215
+16:03:51 INFO Training Data Final MSE = 95.21
+16:03:51 INFO Model training loop completed with 20 iterations
+16:03:51 INFO Export of airport one-hot encoding successful
+16:03:51 INFO Wrangling of test data successful
+16:03:51 INFO Test Data MSE = 69.41
+16:03:51 INFO Predictions using test data successful
+16:03:51 INFO Test Data average delay = 8.33 min
+16:03:51 INFO Final model export successful
+16:03:51 DEBUG Loaded backend qtagg version 5.15.9.
+16:03:52 INFO Model performance plot export successful
