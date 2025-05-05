@@ -1,5 +1,6 @@
 # D602-Task-2-Data-Production-Pipeline
 ### Overview
+This project builds a complete MLOps pipeline for flight delay prediction using MLFlow and DVC, focusing on automation, reproducibility, and deployment readiness.
 
 ### MLOps Pipeline & Deployment – Flight Delay Prediction
 -	Built a modular ML pipeline using MLFlow and DVC to automate data import, cleaning, and polynomial regression modeling; tracked datasets and experiments for reproducibility and version control.
