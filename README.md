@@ -1,5 +1,13 @@
 # D602-Task-2-Data-Production-Pipeline
+### Overview
 
+### MLOps Pipeline & Deployment – Flight Delay Prediction
+-	Built a modular ML pipeline using MLFlow and DVC to automate data import, cleaning, and polynomial regression modeling; tracked datasets and experiments for reproducibility and version control.
+-	Developed Python scripts for data ingestion (Bureau of Transportation Statistics), cleaning (e.g., filtering LAX departures, duplicate removal), and regression analysis, integrated via an MLProject file for seamless execution.
+-	Packaged the pipeline into an end-to-end MLFlow experiment, logging parameters, metrics (MSE, avg. delay), and artifacts (model files, visualizations) under a unified experiment name.
+
+
+### Files
 1. README.md - A file describing other files in this repository.
 
 2. D602 Task 1 Final - A Word document file that contains the report for Task 1.
