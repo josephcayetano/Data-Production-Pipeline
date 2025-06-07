@@ -1,11 +1,11 @@
 # Data Production Pipeline
 ### Overview
-This project builds a complete MLOps pipeline for flight delay prediction using MLFlow and DVC, focusing on automation, reproducibility, and deployment readiness.
+This project builds a full MLOps pipeline to predict flight delays, using MLFlow and DVC to make the process automated, repeatable, and ready for deployment.
 
 ### MLOps Pipeline & Deployment – Flight Delay Prediction
--	Built a modular ML pipeline using MLFlow and DVC to automate data import, cleaning, and polynomial regression modeling; tracked datasets and experiments for reproducibility and version control.
--	Developed Python scripts for data ingestion (Bureau of Transportation Statistics), cleaning (e.g., filtering LAX departures, duplicate removal), and regression analysis, integrated via an MLProject file for seamless execution.
--	Packaged the pipeline into an end-to-end MLFlow experiment, logging parameters, metrics (MSE, avg. delay), and artifacts (model files, visualizations) under a unified experiment name.
+-	Created a machine learning pipeline using MLFlow and DVC that handles data loading, cleaning, and training a regression model automatically
+-	Wrote Python scripts to collect flight data, clean it (e.g., remove duplicates, filter for LAX), and run a polynomial regression model
+-	Logged everything in MLFlow including metrics, parameters, model files, and charts under one experiment for easy tracking and reproducibility
 
 
 ### Files
